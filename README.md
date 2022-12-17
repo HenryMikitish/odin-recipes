@@ -1,2 +1,3 @@
 # odin-recipes
-Test #3
+
+This is an exercise from the Odin curriculum in which I create a recipes website.
